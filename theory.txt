@@ -1,0 +1,14 @@
+javascript bangla tutorial 3  how to add JavaScript in html
+=============================================================
+JS code setup
+1. inline
+<body onload="alert('Hello')">
+    
+</body>
+2. internal (Head Option)
+<script>
+        alert("hello")
+    </script>
+
+3. Extranal 
+Linkup with index.html  <script src="index.js"></script> 
